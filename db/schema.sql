@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `clearance`;
+CREATE DATABASE `clearance`;
