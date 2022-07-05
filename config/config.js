@@ -7,7 +7,7 @@ if (process.argv[2] != "heroku") {
 module.exports = {
   development: {
     username: 'nodeuser',
-    password: 'noUser@1375',
+    password: 'noUSer@1375',
     database: 'clearance',
     host: '127.0.0.1',
     dialect: 'mysql'
