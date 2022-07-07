@@ -44,8 +44,7 @@ nav.navbar.navbar-default {
 }
 
 .col-md-9.main, .cart-row {
-  display: -webkit-box;:
-  -webkit-box;
+  display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
   display: -webkit-flex;
