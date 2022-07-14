@@ -7,7 +7,7 @@
           <h2>{{product.name}}</h2>
           <p class="price">${{product.price}}</p>
           <p>{{product.desc}}</p>
-          {{#unless product.active}}
+          {{#unless product.quantity}}
           <p><strong>SOLD!</strong></p>
           {{/unless}}
           <a href="//fb" class="btn btn-default" role="button">Message Seller</a>
